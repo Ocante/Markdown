@@ -1,4 +1,8 @@
-![MonkieKidMonkieKidSyntaxGIF (2)](https://github.com/Ocante/Markdown/assets/63821194/9c50d6ee-3e13-4a16-92a3-cffa61ca53f1)
+
+![images](https://github.com/Ocante/Markdown/assets/63821194/9f1f074c-3d7e-4140-9bc1-28152a2fc58b)
+![images](https://github.com/Ocante/Markdown/assets/63821194/9f1f074c-3d7e-4140-9bc1-28152a2fc58b)
+![images](https://github.com/Ocante/Markdown/assets/63821194/9f1f074c-3d7e-4140-9bc1-28152a2fc58b)
+![images](https://github.com/Ocante/Markdown/assets/63821194/9f1f074c-3d7e-4140-9bc1-28152a2fc58b)
 
 # Markdown
  Especificando  MArkdown
@@ -137,3 +141,8 @@ Em termos práticos, isso significa que você nunca sabe exatamente o que uma em
 Se você está apenas começando, o melhor conselho que posso dar é escolher um aplicativo Markdown com bom suporte Markdown. Isso ajudará muito a manter a portabilidade de seus arquivos Markdown. Você pode querer armazenar e usar seus arquivos Markdown em outros aplicativos e, para fazer isso, precisa começar com um aplicativo que forneça um bom suporte. Você pode usar o diretório de ferramentas para encontrar um aplicativo adequado.
 ***
 Fonte: https://www.markdownguide.org/getting-started/
+
+![images](https://github.com/Ocante/Markdown/assets/63821194/9f1f074c-3d7e-4140-9bc1-28152a2fc58b)
+![images](https://github.com/Ocante/Markdown/assets/63821194/9f1f074c-3d7e-4140-9bc1-28152a2fc58b)
+![images](https://github.com/Ocante/Markdown/assets/63821194/9f1f074c-3d7e-4140-9bc1-28152a2fc58b)
+![images](https://github.com/Ocante/Markdown/assets/63821194/9f1f074c-3d7e-4140-9bc1-28152a2fc58b)
