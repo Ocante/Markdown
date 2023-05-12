@@ -1,11 +1,12 @@
-Guia básico de Markdown
+# Guia básico de Markdown
+***
 Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e GitHub. Textos estilizados com Markdown são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como #, \* e ![](), usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens.
-
+***
 O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como <b>, <i> e <a href>, etc. Já os textos sem formatação entram como parágrafo simples <p>.
-
+***
 Lista de comandos em Markdown
 Veja abaixo uma lista dos comandos em markdown e alguns exemplos de seu uso:
-
+***
 Titulação
 # Título <h1>
 ## Título <h2>
@@ -20,21 +21,22 @@ Título 3
 Título 4
 Título 5
 Título 6
+ ***
 Ênfase
 Para adicionar ênfase ao conteúdo que será escrito, usa-se o asterisco * ou traço-baixo (underline) _:
 
-Negrito: adicione dois asteriscos **texto** ou dois traços-baixos __texto__ no início e no fim do conteúdo.
+**Negrito**: adicione dois asteriscos **texto** ou dois traços-baixos __texto__ no início e no fim do conteúdo.
 Itálico: adicione apenas um asterisco *texto* ou um traço-baixo _texto_ no início e no fim do conteúdo.
 Este é um exemplo de um texto que possui uma ênfase em **negrito**, e outro em _itálico_.
 
 Links
 Existem duas formas de inserir link em Markdown, através de um link direto ou usando um texto-âncora:
 
-Texto-âncora: utilize os caracteres [](), adicionando entre chaves o texto que você quer que apareça, e entre os parênteses, o endereço de destino, no formato [exemplo](https://exemplo.com/).
+Texto-âncora: utilize os caracteres [](), adicionando entre chaves o texto que você quer que apareça, e entre os parênteses, o endereço de destino, no formato [exemplo](https://github.com/Ocante/Markdown/edit/main/Markdown.md/).
 
-Link direto: envolva o endereço da web em chaves <>. O endereço ficará visível e será clicável pelo usuário. O endereço em forma de link direto tem o formato <https://exemplo.com/>.
+Link direto: envolva o endereço da web em chaves <>. O endereço ficará visível e será clicável pelo usuário. O endereço em forma de link direto tem o formato <https://github.com/Ocante/>.
 
-Este é um link em formato de texto, e este é um link direto https://pipz.com/.
+Este é um link em formato de texto, e este é um link direto https://google.com/.
 
 Listas de itens
 Para listas não ordenadas, utilize um asterisco * na frente to item da lista:
@@ -128,3 +130,4 @@ Alinhado a esquerda | Centralizado | Alinhado a direita
 Valor | Valor | Valor
 Alinhado a esquerda	Centralizado	Alinhado a direita
 Valor	Valor	Valor
+![MonkieKidMonkieKidSyntaxGIF](https://github.com/Ocante/Markdown/assets/63821194/7dd2d780-dfdd-4823-8435-76f488fc0395)
